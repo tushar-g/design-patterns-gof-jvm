@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tusharg.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tusharg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tusharg_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tusharg_main.iml" group="com.tusharg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tusharg_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tusharg_test.iml" group="com.tusharg" />
+    </modules>
+  </component>
+</project>
